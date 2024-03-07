@@ -1,0 +1,41 @@
+#Caja-Principal {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 600px;
+    width: 900px; 
+    background-color: lightblue;
+    border-radius: 25px;  
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#Caja-Contenedora { 
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    border-radius: 25px;  
+}
+
+#Contenedor-Imagen{
+    margin: auto;
+    margin: 10px;
+    background-color: rgb(131, 192, 250);
+    width: 280px;
+    height: 200px;
+    border-radius: 25px;  
+}
+
+#titulo{
+    text-align: center;
+}
+
+#parrafo{
+    text-align: center;
+    padding: 20px;
+}
